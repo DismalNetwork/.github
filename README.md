@@ -1,1 +1,1 @@
-# .github
+[Read me](/profile/README.md)
