@@ -19,6 +19,12 @@
 - Enter giveaways and chat with other members
 
 ---
+### Getting Started
+- [Roadmap](#roadmap)
+- [Funding](#funding)
+- [Discord](https://discord.gg/dismal)
+
+---
 ### Roadmap
 - [ ] Bot rewrite
 - [ ] Website
