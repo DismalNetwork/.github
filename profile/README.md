@@ -36,7 +36,7 @@
 Dismal relies on generous people like you. You can help us in one of the following ways:
 - Boost our Discord server
 - ??? (Coming Soon)
-- Via PayPal (DM PioneerTulip1 or PiggyPlex)
+- Via PayPal (DM PiggyPlex)
 - Via Crypto (DM firexi)
 
 All boosters and donators get exclusive perks in our Discord.
