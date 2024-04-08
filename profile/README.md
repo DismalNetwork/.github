@@ -10,7 +10,7 @@
 
 ---
 <a href="https://discord.gg/dismal">
-  <img src="https://discordapp.com/api/guilds/927729207071633458/widget.png?style=banner3" align="right" title="Join our Discord" alt="Join our Discord">
+  <img src="https://discordapp.com/api/guilds/1094271666248482907/widget.png?style=banner3" align="right" title="Join our Discord" alt="Join our Discord">
 </a>
 
 - Improve and practice with other well-known players in the community
